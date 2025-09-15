@@ -11,10 +11,12 @@
 
 import Chai from "./Chai"
 function App() {
+  const username="Hello my name is satyam"
   return (
     <>
     <Chai/>
     <h1> hello this is from App file which includes the chai component as reusing it</h1>
+    <h2>{username}</h2>
     </>
   )
 }
