@@ -21,7 +21,6 @@ function App() {
     justifyContent:"center",
     alignItems:"center",
     flexDirection:"column",
-    
   }
   return (
     <>
